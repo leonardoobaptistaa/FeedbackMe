@@ -20,10 +20,10 @@ But if you want to use our feedback manager tool, go to [our website](http://fee
 The feedback manager tool is free if you receive less than 50 feedbacks. Check [our website](http://feedbackme.herokuapp.com) for pricing, but is very cheap.
                        DESC
   s.homepage         = "https://github.com/leonardoobaptistaa/FeedbackMe"
-  # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
+  s.screenshots     = "http://feedbackme.herokuapp.com/screenshots-ios/ss01.png", "http://feedbackme.herokuapp.com/screenshots-ios/ss02.png", "http://feedbackme.herokuapp.com/screenshots-ios/ss03.png", "http://feedbackme.herokuapp.com/screenshots-ios/ss-feedback-screen.png"
   s.license          = 'MIT'
   s.author           = { "Leonardo Baptista" => "leonardoobaptistaa@gmail.com" }
-  s.source           = { :git => "https://github.com/leonardoobaptistaa/FeedbackMe.git", :tag => '0.1.0' }
+  s.source           = { :git => "https://github.com/leonardoobaptistaa/FeedbackMe.git", :tag => '1.0.0' }
   s.social_media_url = 'https://twitter.com/leonardocbs'
 
   s.platform     = :ios, '7.0'
