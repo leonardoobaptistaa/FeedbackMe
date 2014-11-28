@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  FeedbackMe
+
+  Created by Leonardo Baptista on 11/25/14.
+  Copyright (c) 2014 Leonardo Baptista. All rights reserved.
+*/
+
+"First Feedback Alert Title" = "Quick Feedback";
+"First Feedback Alert Message" = "Are you enjoying this app?";
+"First Feedback Button Yes" = "Yes, very much!";
+"First Feedback Button Confused" = "I am confused";
+"First Feedback Button No" = "Not actually";
+
+"Positive Feedback Alert Title" = "That's nice. Thank you";
+"Positive Feedback Alert Message" = "Since you are liking our app, can you help us by leaving a review on the AppStore?";
+"Positive Feedback Button Yes" = "Sure!";
+"Positive Feedback Button No" = "No";
+
+"Negative Feedback Alert Title" = "How can we improve?";
+"Negative Feedback Alert Message" = "Do you want to tell us how to improve our app and make you happy? :)";
+"Negative Feedback Button Yes" = "Sure!";
+"Negative Feedback Button No" = "No";

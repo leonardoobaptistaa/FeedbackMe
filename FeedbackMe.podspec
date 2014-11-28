@@ -9,30 +9,30 @@
 
 Pod::Spec.new do |s|
   s.name             = "FeedbackMe"
-  s.version          = "0.1.0"
-  s.summary          = "A short description of FeedbackMe."
+  s.version          = "1.0.0"
+  s.summary          = "Ask for user reviews and feedback with ease"
   s.description      = <<-DESC
-                       An optional longer description of FeedbackMe
+Asking for feedback when user is launching your app **IS NOT THE BEST TIME** goddammit.
 
-                       * Markdown format.
-                       * Don't worry about the indent, we strip it!
+You **don't have to create any account** to use this pod,
+But if you want to use our feedback manager tool, go to [our website](http://feedbackme.herokuapp.com).
+
+The feedback manager tool is free if you receive less than 50 feedbacks. Check [our website](http://feedbackme.herokuapp.com) for pricing, but is very cheap.
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/FeedbackMe"
+  s.homepage         = "https://github.com/leonardoobaptistaa/FeedbackMe"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Leonardo Baptista" => "leonardoobaptistaa@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/FeedbackMe.git", :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => "https://github.com/leonardoobaptistaa/FeedbackMe.git", :tag => '0.1.0' }
+  s.social_media_url = 'https://twitter.com/leonardocbs'
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
 
   s.source_files = 'Pod/Classes'
   s.resource_bundles = {
-    'FeedbackMe' => ['Pod/Assets/*.png']
+    'FeedbackMe' => ['Pod/Assets/*.png', 'Pod/Assets/*.xib']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
