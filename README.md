@@ -1,6 +1,6 @@
 # FeedbackMe
 
-[![CI Status](http://img.shields.io/travis/Leonardo Baptista/FeedbackMe.svg?style=flat)](https://travis-ci.org/Leonardo Baptista/FeedbackMe)
+[![CI Status](https://travis-ci.org/leonardoobaptistaa/FeedbackMe.svg?branch=1.0.0&style=flat)](https://travis-ci.org/Leonardo Baptista/FeedbackMe)
 [![Version](https://img.shields.io/cocoapods/v/FeedbackMe.svg?style=flat)](http://cocoadocs.org/docsets/FeedbackMe)
 [![License](https://img.shields.io/cocoapods/l/FeedbackMe.svg?style=flat)](http://cocoadocs.org/docsets/FeedbackMe)
 [![Platform](https://img.shields.io/cocoapods/p/FeedbackMe.svg?style=flat)](http://cocoadocs.org/docsets/FeedbackMe)
