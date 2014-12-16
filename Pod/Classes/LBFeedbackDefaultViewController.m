@@ -57,10 +57,18 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    [self localizeControls];
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+}
+
+-(void) localizeControls {
+    self.txtName.placeholder = NSLocalizedString(@"Name", nil);
+    self.txtEmail.placeholder = NSLocalizedString(@"E-mail", nil);
+    self.lblText.text = NSLocalizedString(@"How can we improve?", nil);
 }
 
 #pragma mark - Keyboard and Screen position

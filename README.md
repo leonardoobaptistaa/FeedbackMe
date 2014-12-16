@@ -170,6 +170,10 @@ You can add these string to your Localization file, and FeedbackMe will load the
 "Negative Feedback Alert Message" = "Do you want to tell us how to improve our app and make you happy? :)";
 "Negative Feedback Button Yes" = "Sure!";
 "Negative Feedback Button No" = "No";
+
+"Name" = "Name"
+"E-mail" = "E-mail"
+"How can we improve?" = "How can we improve?"
 ```
 
 ## Contributions
