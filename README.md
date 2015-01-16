@@ -171,9 +171,9 @@ You can add these string to your Localization file, and FeedbackMe will load the
 "Negative Feedback Button Yes" = "Sure!";
 "Negative Feedback Button No" = "No";
 
-"Name" = "Name"
-"E-mail" = "E-mail"
-"How can we improve?" = "How can we improve?"
+"Name" = "Name";
+"E-mail" = "E-mail";
+"How can we improve?" = "How can we improve?";
 ```
 
 ## Contributions
