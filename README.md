@@ -178,7 +178,7 @@ You can add these string to your Localization file, and FeedbackMe will load the
 
 ## Contributions
 
-If you want to add somethings, please do! And open a pull request later.
+If you want to add something, please do! And open a pull request later.
 
 It will be nice to have a way to customize the feedback view controller layout.
 I will implement this on a future version.
